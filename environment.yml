@@ -25,3 +25,4 @@ dependencies:
   - numpy
   - pandas
   - scipy
+  - matplotlib
