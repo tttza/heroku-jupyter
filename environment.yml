@@ -25,4 +25,5 @@ dependencies:
   - numpy
   - pandas
   - scipy
-  - matplotlib
+  - scikit-learn
+  - scikit-rf
