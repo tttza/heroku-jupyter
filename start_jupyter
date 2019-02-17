@@ -2,7 +2,7 @@
 
 pgcontents init -l $DATABASE_URL --no-prompt
 
-conda install matplotlib
+conda install -y matplotlib
 
 jupyter contrib nbextension install --user
 jupyter nbextensions_configurator enable --user
