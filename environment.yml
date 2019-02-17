@@ -20,9 +20,3 @@ dependencies:
   - pip:
     - pgcontents
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
-    - numpy
-    - pandas
-    - seaborn
-    - matplotlib
-    - scikit-learn
-    - scikit-rf
