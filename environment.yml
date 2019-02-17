@@ -23,7 +23,4 @@ dependencies:
   # additional packages
   - nomkl
   - numpy
-  - pandas
-  - seaborn
-  - scipy
-  - matplotlib
+  
