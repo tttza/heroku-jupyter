@@ -21,6 +21,7 @@ dependencies:
     - pgcontents
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
   # additional packages
+  - nomkl
   - numpy
   - pandas
   - seaborn
